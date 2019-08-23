@@ -6,7 +6,7 @@
 //  Copyright © 2019 典昭酒井. All rights reserved.
 //
 
-
+0000
 import UIKit
 
 class ViewController: UIViewController {
